@@ -4,3 +4,6 @@
 
 ##Response to Free Culture
 Jesse Jordan's story about developing a search engine to scour RPI's network for files hosted by other students is interesting because it shows that Open Source is still misunderstood.  Jesse's goal was to just tinker with something that he was interested in and gain some experience, but this ended with him having to pay $12,000 to the RIAA. This is unfortunate in my eyes, because seeing this is discouraging to anyone who wants to tinker with and modify programs.  What Jesse did was a public service to RPI students allowing them to access files from school computers or away locations with ease.  However if every person who wants to modify a piece of code is subject to a copyright lawsuit, nothing will ever improve.  Jesse did not condone or encourage piracy, yet was sued for it non the less.  He did not upload the files for others to download and share illegally.  This also shows the nature of the RIAA, in that the amount of money did not matter to them, just that they destroyed Jesse's reputation and gave him a hard time.
+
+##Tree
+![Tree](Tree.png)
