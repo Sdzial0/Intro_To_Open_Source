@@ -9,13 +9,13 @@ Jesse Jordan's story about developing a search engine to scour RPI's network for
 ![Tree](Tree.png)
 
 ##Regex
-![problem1](pics/problem1.png)
-![problem2](pics/problem2.png)
-![problem3](pics/problem3.png)
-![problem4](pics/problem4.png)
-![problem5](pics/problem6.png)
-![problem6](pics/problem6.png)
-![problem7](pics/problem7.png)
+![problem1](https://github.com/Sdzial0/Intro_To_Open_Source/blob/master/pics/problem1.PNG)
+![problem2](https://github.com/Sdzial0/Intro_To_Open_Source/blob/master/pics/problem2.PNG)
+![problem3](https://github.com/Sdzial0/Intro_To_Open_Source/blob/master/pics/problem3.PNG)
+![problem4](https://github.com/Sdzial0/Intro_To_Open_Source/blob/master/pics/problem4.PNG)
+![problem5](https://github.com/Sdzial0/Intro_To_Open_Source/blob/master/pics/problem5.PNG)
+![problem6](https://github.com/Sdzial0/Intro_To_Open_Source/blob/master/pics/problem6.PNG)
+![problem7](https://github.com/Sdzial0/Intro_To_Open_Source/blob/master/pics/problem7.PNG)
 
 ![cross1](https://github.com/Sdzial0/Intro_To_Open_Source/blob/master/cross1.PNG)
 ![cross2](https://github.com/Sdzial0/Intro_To_Open_Source/blob/master/cross2.PNG)
