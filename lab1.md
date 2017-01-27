@@ -17,10 +17,10 @@ Jesse Jordan's story about developing a search engine to scour RPI's network for
 ![problem6](pics/problem6.png)
 ![problem7](pics/problem7.png)
 
-![cross1](cross1.png)
-![cross2](cross2.png)
-![cross3](cross3.png)
-![cross4](cross4.png)
+![cross1](https://github.com/Sdzial0/Intro_To_Open_Source/blob/master/cross1.PNG)
+![cross2](https://github.com/Sdzial0/Intro_To_Open_Source/blob/master/cross2.PNG)
+![cross3](https://github.com/Sdzial0/Intro_To_Open_Source/blob/master/cross3.PNG)
+![cross4](https://github.com/Sdzial0/Intro_To_Open_Source/blob/master/cross4.PNG)
 
 ##Blockly
 ![blockly](https://github.com/Sdzial0/Intro_To_Open_Source/blob/master/Blocky.PNG)
