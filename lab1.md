@@ -16,3 +16,11 @@ Jesse Jordan's story about developing a search engine to scour RPI's network for
 ![problem5](pics/problem6.png)
 ![problem6](pics/problem6.png)
 ![problem7](pics/problem7.png)
+
+![cross1](cross1.png)
+![cross2](cross2.png)
+![cross3](cross3.png)
+![cross4](cross4.png)
+
+##Blockly
+![blockly](Blockly.png)
