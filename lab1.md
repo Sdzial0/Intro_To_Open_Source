@@ -24,3 +24,6 @@ Jesse Jordan's story about developing a search engine to scour RPI's network for
 
 ##Blockly
 ![blockly](https://github.com/Sdzial0/Intro_To_Open_Source/blob/master/Blocky.PNG)
+
+##Reflection
+For my project I wanted to make something that was useful to me and potentially others.  One of my hobbies is video games, and I would like to make a tool or program that adds a feature to the game that is not supported by default.  Currently I am not sure what this program would do, but I am determined to create something because I will actually be able to use this tool frequently and potentially have others contribute to make it better.  There are plenty of examples of open source programs that work on games, and are developed by community members, so this is already a good sign that there is a community dedicated to developing software for games.  To make things easier I will try to find a game that supports an API to interact with the game.  This is for two reasons, generally if there is no official API, the developers do not want you to develop third party software.  Second, this will make the implementation of the project easier and it will be documented and have support by the developers of the game itself.
