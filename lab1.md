@@ -7,3 +7,6 @@ Jesse Jordan's story about developing a search engine to scour RPI's network for
 
 ##Tree
 ![Tree](Tree.png)
+
+##Regex
+![Problem1](pics/problem1.png)
