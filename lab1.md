@@ -9,4 +9,10 @@ Jesse Jordan's story about developing a search engine to scour RPI's network for
 ![Tree](Tree.png)
 
 ##Regex
-![Problem1](pics/problem1.png)
+![problem1](pics/problem1.png)
+![problem2](pics/problem2.png)
+![problem3](pics/problem3.png)
+![problem4](pics/problem4.png)
+![problem5](pics/problem6.png)
+![problem6](pics/problem6.png)
+![problem7](pics/problem7.png)
