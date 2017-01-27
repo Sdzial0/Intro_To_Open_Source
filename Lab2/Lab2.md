@@ -15,3 +15,12 @@ The three different licenses all serve different purposes for software.  GPL is 
 
 ##Project
 The project I am thinking about making will be a tool for a game that adds functionallity to that game that is not supported in the game by default.  The users will be other people who play the game.  I will use a GPL license which will hopefully cause other developers who play the game to contribute to the project.  This will cause the project to grow and reach new users who can potentailly also contribute.  This tool will hopefully help other users enjoy the experience of the game more or add functionallity that was not there before.  
+
+##License Table
+Website|License Present|License
+---|---|---
+https://github.com/mmetro/WeirdSideofYouTube|Yes|MIT
+https://github.com/jzblee/tally|Yes|MIT
+https://github.com/adriancollado/solum|Yes|MIT
+https://github.com/samuelyuan/AtomForum|Yes|MIT
+https://github.com/mukulio/atomx|No|N/A
